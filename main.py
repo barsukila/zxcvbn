@@ -1,1 +1,5 @@
 print('Lol')
+print('мем')
+print(4387349394857)
+a = int(input())
+print(4363646)
